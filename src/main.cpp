@@ -36,7 +36,9 @@ float divide(int n1, int n2) // division function
 {
   return ((float)n1 / n2);
 }
-
+float mod(){
+  
+}
 void setup()
 {
   Serial.begin(115200);
